@@ -50,4 +50,4 @@ react-native info
 
 ---
 
-This code was initially ported from React Native on its version 0.59.10 as they dropped it on the next one.
+This code was initially taken from React Native on its version 0.59.10 as they dropped it on the next one. See https://github.com/facebook/react-native/issues/24092
